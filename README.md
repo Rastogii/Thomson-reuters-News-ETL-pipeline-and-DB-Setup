@@ -17,7 +17,8 @@ Prerequisites to Setup ElasticSearch DB and configure table schema on m5.xlarge 
 3. Run 'chmod +x elastic.sh'
 4. Run './elastic.sh'
 
-![elasticsearchSchema](https://user-images.githubusercontent.com/28540487/156984350-8341e2ba-b212-4730-b482-7197266e323a.JPG)
+![elasticsearchSchema_LI](https://user-images.githubusercontent.com/28540487/156984677-615ff9ba-c618-470a-98ea-f47e91adac3a.jpg)
+
 
 Airflow Scheduling:
 1. 'airflow_dag.py' automates fetching tar files from Remote server, untar them and run pyspark application @daily.
