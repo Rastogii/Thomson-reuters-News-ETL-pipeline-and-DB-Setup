@@ -1,0 +1,499 @@
+﻿AFRICA,
+AO,Angola
+,Republic of Angola
+BF,Burkina Faso
+BI,Burundi
+,Republic of Burundi
+BJ,Benin
+,Republic of Benin
+BW,Botswana
+,Republic of Botswana
+CD,Congo (DRC)
+,Democratic Republic of the Congo
+CF,Central African Republic
+CG,Congo (RC)
+,Republic of the Congo
+CI,Ivory Coast
+,Republic of C?te d'Ivoire
+CM,Cameroon
+,Republic of Cameroon
+CV,Cape Verde
+,Republic of Cabo Verde
+DJ,Djibouti
+,Republic of Djibouti
+DZ,Algeria
+,People's Democratic Republic of Algeria
+EG,Egypt
+,Arab Republic of Egypt
+EH,Western Sahara
+ER,Eritrea
+,State of Eritrea
+ET,Ethiopia
+,Federal Democratic Republic of Ethiopia
+GA,Gabon
+,Gabonese Republic
+GH,Ghana
+,Republic of Ghana
+GI,Gibraltar
+GM,Gambia
+,Republic of The Gambia
+GN,Guinea
+,Republic of Guinea
+GQ,Equatorial Guinea
+,Republic of Equatorial Guinea
+GY,Guyana
+,Co-operative Republic of Guyana
+KE,Kenya
+,Republic of Kenya
+KM,Comoros
+,Union of the Comoros
+LR,Liberia
+,Republic of Liberia
+LS,Lesotho
+,Kingdom of Lesotho
+LY,Libya
+MA,Morocco
+,Kingdom of Morocco
+MG,Madagascar
+,Republic of Madagascar
+ML,Mali
+,Republic of Mali
+MR,Mauritania
+,Islamic Republic of Mauritania
+MU,Mauritius
+,Republic of Mauritius
+MW,Malawi
+,Republic of Malawi
+MZ,Mozambique
+,Republic of Mozambique
+NA,Namibia
+,Republic of Namibia
+NE,Niger
+,Republic of Niger
+NG,Nigeria
+,Federal Republic of Nigeria
+RE,R?union
+,Department of Reunion
+RW,Rwanda
+,Republic of Rwanda
+SC,Seychelles
+,Republic of Seychelles
+SD,Sudan
+,Republic of the Sudan
+SH,"Saint Helena, Ascension and Tristan da Cunha"
+SL,Sierra Leone
+,Republic of Sierra Leone
+SN,Senegal
+,Republic of Senegal
+SO,Somalia
+,Federal Republic of Somalia
+SS,South Sudan
+SZ,Swaziland
+,Kingdom of Swaziland
+TD,Chad
+,Republic of Chad
+TF,French Southern Territories
+,Territory of the French Southern and Antarctic Lands
+TG,Togo
+,Togolese Republic
+TN,Tunisia
+,Tunisian Republic
+TO,Tonga
+,Kingdom of Tonga
+TZ,Tanzania
+,United Republic of Tanzania
+UG,Uganda
+,Republic of Uganda
+ZA,South Africa
+,Republic of South Africa
+ZM,Zambia
+,Republic of Zambia
+ZW,Zimbabwe
+,Republic of Zimbabwe
+ASIA,
+AF,Afghanistan
+,Islamic Republic of Afghanistan
+BD,Bangladesh
+,People's Republic of Bangladesh
+BN,Brunei
+,Negara Brunei Darussalam
+BT,Bhutan
+,Kingdom of Bhutan
+CN,China (PRC)
+,People's Republic of China
+HK,Hong Kong
+,Hong Kong Special Administrative Region
+ID,Indonesia
+,Republic of Indonesia
+IN,India
+,Republic of India
+JP,Japan
+KG,Kyrgyzstan
+,Kyrgyz Republic
+KH,Cambodia
+,Kingdom of Cambodia
+KP,North Korea
+,Democratic People's Republic of Korea
+KR,South Korea
+,Republic of Korea
+KZ,Kazakhstan
+,Republic of Kazakhstan
+LA,Laos
+,Lao People's Democratic Republic
+LK,Sri Lanka
+,Democratic Socialist Republic of Sri Lanka
+MM,Myanmar
+,Republic of the Union of Myanmar
+MN,Mongolia
+MO,Macau
+,Macau Special Administrative Region
+MV,Maldives
+,Republic of Maldives
+MY,Malaysia
+NP,Nepal
+,Federal Democratic Republic of Nepal
+PH,Philippines
+,Republic of the Philippines
+PK,Pakistan
+,Islamic Republic of Pakistan
+SG,Singapore
+,Republic of Singapore
+TH,Thailand
+,Kingdom of Thailand
+TJ,Tajikistan
+,Republic of Tajikistan
+TL,East Timor / Timor-Leste
+,Democratic Republic of Timor-Leste
+TM,Turkmenistan
+TW,Taiwan
+UZ,Uzbekistan
+,Republic of Uzbekistan
+VN,Vietnam
+,Socialist Republic of Vietnam
+CENTRAL AMERICA,
+AG,Antigua and Barbuda
+BZ,Belize
+CR,Costa Rica
+,Republic of Costa Rica
+HN,Honduras
+,Republic of Honduras
+HT,Haiti
+,Republic of Haiti
+NI,Nicaragua
+,Republic of Nicaragua
+PA,Panama
+,Republic of Panama
+SV,El Salvador
+,Republic of El Salvador
+EUROPE,
+AD,Andorra
+,Principality of Andorra
+AL,Albania
+,Republic of Albania
+AM,Armenia
+,Republic of Armenia
+AT,Austria
+,Republic of Austria
+AZ,Azerbaijan
+,Republic of Azerbaijan
+BA,Bosnia and Herzegovina
+BE,Belgium
+,Kingdom of Belgium
+BG,Bulgaria
+,Republic of Bulgaria
+BY,Belarus
+,Republic of Belarus
+CH,Switzerland
+,Swiss Confederation
+CY,Cyprus
+,Republic of Cyprus
+CZ,Czech Republic
+DE,Germany
+,Federal Republic of Germany
+DK,Denmark
+,Kingdom of Denmark
+EE,Estonia
+,Republic of Estonia
+ES,Spain
+,Kingdom of Spain
+FI,Finland
+,Republic of Finland
+FR,France
+,French Republic
+GB,United Kingdom
+,United Kingdom of Great Britain and Northern Ireland
+GE,Georgia
+GG,Guernsey
+,Bailiwick of Guernsey
+GL,Greenland
+GR,Greece
+,Hellenic Republic
+HR,Croatia
+,Republic of Croatia
+HU,Hungary
+IE,Ireland
+,Republic of Ireland
+IM,Isle of Man
+IS,Iceland
+,Republic of Iceland
+IT,Italy
+,Italian Republic
+JE,Jersey
+,Bailiwick of Jersey
+KO,Kosovo
+,Republic of Kosovo
+LI,Liechtenstein
+,Principality of Liechtenstein
+LT,Lithuania
+,Republic of Lithuania
+LU,Luxembourg
+,Grand Duchy of Luxembourg
+LV,Latvia
+,Republic of Latvia
+MC,Monaco
+,Principality of Monaco
+MD,Moldova
+,Republic of Moldova
+ME,Montenegro
+MK,Macedonia (the former Yugoslav Republic of)
+,Former Yugoslav Republic of Macedonia
+MT,Malta
+,Republic of Malta
+NL,Netherlands
+,Kingdom of the Netherlands
+NO,Norway
+,Kingdom of Norway
+PL,Poland
+,Republic of Poland
+PT,Portugal
+,Portuguese Republic
+RO,Romania
+RU,Russia
+,Russian Federation
+SE,Sweden
+,Kingdom of Sweden
+SK,Slovakia
+,Slovak Republic
+SM,San Marino
+,Republic of San Marino
+SQ,Slovenia
+,Republic of Slovenia
+TR,Turkey
+,Republic of Turkey
+UA,Ukraine
+VA,Vatican City
+,Holy See (Vatican City)
+GBE,England
+GBS,Scotland
+GBW,Wales
+SRB,Serbia
+,Republic of Serbia
+GBNI,Northern Ireland
+MIDDLE EAST,
+AE,United Arab Emirates
+BH,Bahrain
+,Kingdom of Bahrain
+IL,Israel
+,State of Israel
+IQ,Iraq
+,Republic of Iraq
+IR,Iran
+,Islamic Republic of Iran
+JO,Jordan
+,Hashemite Kingdom of Jordan
+KW,Kuwait
+,State of Kuwait
+LB,Lebanon
+,Lebanese Republic
+OM,Oman
+,Sultanate of Oman
+PS,Palestinian Territories
+QA,Qatar
+,State of Qatar
+SA,Saudi Arabia
+,Kingdom of Saudi Arabia
+SY,Syria
+,Syrian Arab Republic
+YE,Yemen
+,Republic of Yemen
+NORTH AMERICA,
+AW,Aruba
+BM,Bermuda
+CA,Canada
+MX,Mexico
+,United Mexican States
+PM,Saint Pierre and Miquelon
+,Territorial Collectivity of Saint Pierre and Miquelon
+US,United States
+,United States of America
+AAK,Alaska
+AAL,Alabama
+AAR,Arkansas
+AAZ,Arizona
+ACA,California
+ACO,Colorado
+ACT,Connecticut
+ADC,Washington DC
+ADE,Delaware
+AFL,Florida
+AGA,Georgia
+AHI,Hawaii
+AIA,Iowa
+AID,Idaho
+AIL,Illinois
+AIN,Indiana
+AKS,Kansas
+AKY,Kentucky
+ALA,Louisiana
+AMA,Massachusetts
+AMD,Maryland
+AME,Maine
+AMI,Michigan
+AMN,Minnesota
+AMO,Missouri
+AMS,Mississippi
+AMT,Montana
+ANC,North Carolina
+AND,North Dakota
+ANE,Nebraska
+ANH,New Hampshire
+ANJ,New Jersey
+ANM,New Mexico
+ANV,Nevada
+ANY,New York
+AOH,Ohio
+AOK,Oklahoma
+AOR,Oregon
+APA,Pennsylvania
+ARI,Rhode Island
+ASC,South Carolina
+ASD,South Dakota
+ATN,Tennessee
+ATX,Texas
+AUT,Utah
+AVA,Virginia
+AVT,Vermont
+AWA,Washington
+AWI,Wisconsin
+AWV,West Virginia
+AWY,Wyoming
+OCEANIA,
+AS,American Samoa
+,Territory of American Samoa
+AU,Australia
+,Commonwealth of Australia
+CC,Cocos (Keeling) Islands
+,Territory of Cocos (Keeling) Islands
+CK,Cook Islands
+CX,Christmas Island
+,Territory of Christmas Island
+FJ,Fiji
+,Republic of Fiji
+FM,Micronesia
+,Federated States of Micronesia
+FO,Faroe Islands
+GU,Guam
+,Territory of Guam
+HM,Heard and McDonald Islands
+,Territory of Heard Island and McDonald Islands
+KI,Kiribati
+,Republic of Kiribati
+MH,Marshall Islands
+,Republic of the Marshall Islands
+NC,New Caledonia
+,Territory of New Caledonia and Dependencies
+NF,Norfolk Island
+,Territory of Norfolk Island
+NR,Nauru
+,Republic of Nauru
+NU,Niue
+NZ,New Zealand
+PF,French Polynesia
+,Territory of French Polynesia
+PG,Papua New Guinea
+,Independent State of Papua New Guinea
+PN,Pitcairn
+,Pitcairn Islands
+PW,Palau
+,Republic of Palau
+SB,Solomon Islands
+TK,Tokelau
+TV,Tuvalu
+UM,United States Minor Outlying Islands
+VU,Vanuatu
+,Republic of Vanuatu
+WF,Wallis and Futuna
+,Territory of the Wallis and Futuna Islands
+WS,Samoa
+,Independent State of Samoa
+OTHER,
+AQ,Antarctica
+MDS,Mid-Sea
+,A maritime location on or below the surface of a sea or ocean.
+SPC,Outer Space
+,A location outside the Earth's atmosphere.
+AIRB,Airborne
+,A location above the Earth's surface but within the atmosphere.
+SOUTH AMERICA,
+SOUTH AMERICA,
+AI,Anguilla
+AR,Argentina
+,Argentine Republic
+BB,Barbados
+BO,Bolivia
+,Plurinational State of Bolivia
+BR,Brazil
+,Federative Republic of Brazil
+BS,Bahamas
+,Commonwealth of the Bahamas
+CL,Chile
+,Republic of Chile
+CO,Colombia
+,Republic of Colombia
+CU,Cuba
+,Republic of Cuba
+DM,Dominica
+,Commonwealth of Dominica
+DO,Dominican Republic
+EC,Ecuador
+,Republic of Ecuador
+FK,Falkland Islands
+GD,Grenada
+GF,French Guiana
+,Department of Guiana
+GP,Guadeloupe
+,Department of Guadeloupe
+GS,South Georgia and South Sandwich Islands
+GT,Guatemala
+,Republic of Guatemala
+GW,Guinea-Bissau
+,Republic of Guinea-Bissau
+JM,Jamaica
+KN,Saint Kitts and Nevis
+,Federation of Saint Kitts and Nevis
+KY,Cayman Islands
+LC,Saint Lucia
+MQ,Martinique
+,Department of Martinique
+MS,Montserrat
+PE,Peru
+,Republic of Peru
+PR,Puerto Rico
+,Commonwealth of Puerto Rico
+PY,Paraguay
+,Republic of Paraguay
+SR,Suriname
+,Republic of Suriname
+ST,Sao Tome and Principe
+,Democratic Republic of Sao Tome and Principe
+TC,Turks and Caicos Islands
+TT,Trinidad and Tobago
+,Republic of Trinidad and Tobago
+UY,Uruguay
+,Oriental Republic of Uruguay
+VC,Saint Vincent and the Grenadines
+VE,Venezuela
+,Bolivarian Republic of Venezuela
+VG,British Virgin Islands
+VI,U.S. Virgin Islands
+,United States Virgin Islands
