@@ -154,14 +154,6 @@ def parsers(x):
 
 convertUDF = F.udf(lambda z: parsers(z))
 
-es_write_conf = {
-    "es.nodes" : "13.211.190.7",
-    "es.port" : "9200",
-    "es.resource" : 'thomreuters/2013-07-01',
-    "es.input.json": "yes",
-    "es.mapping.id": "unique_story_index"
-}
-
 #rdd = partitioneddf.foreachPartition(lambda x: parsers(x, language_detector_pipeline, pipeline))
 #rdd = partitioneddf.map(lambda x: parsers(x))
 newPartitioneddf = partitioneddf.withColumn("Text", convertUDF(col("Text")))
