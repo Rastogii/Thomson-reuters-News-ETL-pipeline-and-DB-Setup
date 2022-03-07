@@ -17,6 +17,8 @@ Prerequisites to Setup ElasticSearch DB and configure table schema on m5.xlarge 
 3. Run 'chmod +x elastic.sh'
 4. Run './elastic.sh'
 
+![elasticsearchSchema](https://user-images.githubusercontent.com/28540487/156984350-8341e2ba-b212-4730-b482-7197266e323a.JPG)
+
 Airflow Scheduling:
 1. 'airflow_dag.py' automates fetching tar files from Remote server, untar them and run pyspark application @daily.
 2. Make sure sqlite3 has version > 3.15.0. AWS EMR default image may have older sqlite version.
@@ -54,3 +56,7 @@ To run either:
 
 PostProcessed Output looks like:
   ![image](https://user-images.githubusercontent.com/28540487/156979599-2703d4d2-feac-4e96-a71c-ae1841ea6a50.png)
+  
+RESTAPI Search POST Request:
+  ![post request](https://user-images.githubusercontent.com/28540487/156984445-1b326dae-cf9f-477e-8c3e-b779c3468a30.JPG)
+
