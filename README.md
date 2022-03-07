@@ -7,17 +7,15 @@ Prerequisites Setup on AWS EMR:
 1. ssh to AWS EMR cluster master node using 
 'ssh -i xx.pem hadoop@ip-address'
 2. Copy pipeline_prerequisites.sh to this node, as well as the private key to Remote server where the CSVs are located.
-3. Run:
-chmod +x pipeline_prerequisites.sh
-./pipeline_prerequisites.sh
-4. Change Driver memory in spark-deafults.conf to 15GB to avoid OOM errors in file '/usr/lib/spark/conf/spark-defaults.conf'.
+3. Run 'chmod +x pipeline_prerequisites.sh'
+4. Run './pipeline_prerequisites.sh'
+5. Change Driver memory in spark-deafults.conf to 15GB to avoid OOM errors in file '/usr/lib/spark/conf/spark-defaults.conf'.
 
 Prerequisites to Setup ElasticSearch DB and configure table schema on m5.xlarge / m5.2xlarge VM
 1. ssh to VM
 2. Copy 'elastic.sh' to the VM
-3. Run:
-chmod +x elastic.sh
-./elastic.sh
+3. Run 'chmod +x elastic.sh'
+4. Run './elastic.sh'
 
 Airflow Scheduling:
 1. 'airflow_dag.py' automates fetching tar files from Remote server, untar them and run pyspark application @daily.
@@ -46,11 +44,11 @@ To run either:
  
  This pyspark file does:
  
-It will read csv file and record the index where <“date”,”time”> pattern is matching using regex.
-It will divide the csv file into text blobs based on the above indices and convert it into partitioned dataFrame. 
-The partitioned dataFrame will go through an UDF parser, which will parse each text blob and convert it into a structured format Hash(19 fields+ 1 field for shard routing region).
-The partitioned DataFrames are brought back to driver executor where the “headline”, “text” fields are converted to English Language using Spark-NLP.
-The resultant dataFrame is saved to Elasticsearch into ThomReuters/<csv-date-date> table
+1. It will read csv file and record the index where <“date”,”time”> pattern is matching using regex.
+2. It will divide the csv file into text blobs based on the above indices and convert it into partitioned dataFrame. 
+3. The partitioned dataFrame will go through an UDF parser, which will parse each text blob and convert it into a structured format Hash(19 fields+ 1 field for shard routing region).
+4. The partitioned DataFrames are brought back to driver executor where the “headline”, “text” fields are converted to English Language using Spark-NLP.
+5. The resultant dataFrame is saved to Elasticsearch into ThomReuters/<csv-date-date> table
 
   
 
