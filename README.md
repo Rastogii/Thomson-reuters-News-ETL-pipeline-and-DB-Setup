@@ -51,7 +51,6 @@ It will divide the csv file into text blobs based on the above indices and conve
 The partitioned dataFrame will go through an UDF parser, which will parse each text blob and convert it into a structured format Hash(19 fields+ 1 field for shard routing region).
 The partitioned DataFrames are brought back to driver executor where the “headline”, “text” fields are converted to English Language using Spark-NLP.
 The resultant dataFrame is saved to Elasticsearch into ThomReuters/<csv-date-date> table
-![image](https://user-images.githubusercontent.com/28540487/156979272-6e79f074-7302-4db6-add1-8e87fce7f0c5.png)
 
   
 
