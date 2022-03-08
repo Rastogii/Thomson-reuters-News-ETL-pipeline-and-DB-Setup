@@ -56,7 +56,7 @@ To run either:
 4. The partitioned DataFrames are brought back to driver executor where the “headline”, “text” fields are converted to English Language using Spark-NLP.
 5. The resultant dataFrame is saved to Elasticsearch into ThomReuters/<csv-date-date> table
 
-  
+This application takes time to run. Keep patience!
 
 PostProcessed Output looks like:
   ![image](https://user-images.githubusercontent.com/28540487/156979599-2703d4d2-feac-4e96-a71c-ae1841ea6a50.png)
